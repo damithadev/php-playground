@@ -37,5 +37,5 @@
     }
     </script>
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD7ngQlbbaL_qjsvJQp02PFTXc_gO916s8&callback=myMap"></script></body>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAP_API"></script></body>
 </html>
